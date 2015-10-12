@@ -1,0 +1,21 @@
+##
+## A fish, for troutsay
+## from http://www.ascii-art.de/ascii/def/fish.txt
+## by Joan G Stark of http://www.ascii-art.com/
+##
+$the_cow = <<EOC;
+                        $thoughts
+                          $thoughts
+                   ,__      $thoughts
+                   |  `'.     $thoughts
+__           |`-._/_.:---`-.._
+\='.       _/..--'`__         `'-._
+ \- '-.--"`      ===        /   o  `',
+  )= (                 .--_ |       _.'
+ /_=.'-._             {=_-_ |   .--`-.
+/_.'    `\`'-._        '-=   \    _.'
+    jgs  )  _.-'`'-..       _..-'`
+        /_.'        `/";';`|
+                     \` .'/
+                      '--'
+EOC
